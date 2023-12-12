@@ -1,7 +1,6 @@
-import React from "react";
-import { useLoaderData } from "react-router";
 
-const Card = ({data}) => {
+
+const Card = ({skill}) => {
 
   return (
     <div>
@@ -9,16 +8,16 @@ const Card = ({data}) => {
         <figure>
           <img
           className="h-[120px] w-[150px] mt-4"
-            src={data.Image}
+            src={skill?.image}
             alt="Shoes"
           />
         </figure>
         <div className="card-body">
-          <h2 className="card-title">{data.Title}</h2>
+          <h2 className="card-title">{skill?.title}</h2>
           <p className="text-purple-500 font-semibold">
-             <span className=" text-black font-bold text-lg">Experience:</span> {data.Experience}</p>
+             <span className=" text-black font-bold text-lg">Experience:</span> {skill?.experience}</p>
           <p className="text-purple-500 font-semibold"> 
-          <span className=" text-black font-bold text-lg">TotalProject:</span>  {data.TotalProject}</p>
+          <span className=" text-black font-bold text-lg">TotalProject:</span>  {skill?.totalProject}</p>
           <div className="card-actions justify-end">
           
           </div>

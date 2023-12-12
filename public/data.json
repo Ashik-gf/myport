@@ -1,52 +1,52 @@
 [
     { "id": 1,
-      "Title": "HTML",
-      "Description": "",
-      "Experience": "1 year",
-      "TotalProject": 10,
-      "Image": "https://i.ibb.co/s6Xg37L/image.png"
+      "title": "HTML",
+      "description": "",
+      "experience": "1 year",
+      "totalProject": 10,
+      "image": "https://i.ibb.co/s6Xg37L/image.png"
     },
     { "id": 2,
-      "Title": "CSS",
-      "Description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Experience": "1 year",
-      "TotalProject": 15,
-      "Image": "https://i.ibb.co/T2FpJYX/image.png"
+      "title": "CSS",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "experience": "1 year",
+      "totalProject": 15,
+      "image": "https://i.ibb.co/T2FpJYX/image.png"
     },
     { "id": 3,
-      "Title": "Tailwind CSS",
-      "Description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-      "Experience": "1 year",
-      "TotalProject": 20,
-      "Image": "https://i.ibb.co/1fPv3Gj/image.png"
+      "title": "Tailwind CSS",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "experience": "1 year",
+      "totalProject": 20,
+      "image": "https://i.ibb.co/1fPv3Gj/image.png"
     },
     { "id": 4,
-      "Title": "Java Script",
-      "Description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "Experience": "6 month",
-      "TotalProject": 12,
-      "Image": "https://i.ibb.co/mtpqFTv/image.png"
+      "title": "Java Script",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "experience": "6 month",
+      "totalProject": 12,
+      "image": "https://i.ibb.co/mtpqFTv/image.png"
     },
     { "id": 5,
-      "Title": "React",
-      "Description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Experience": 6,
-      "TotalProject": 18,
-      "Image": "https://i.ibb.co/kgzPH4C/image.png"
+      "title": "React",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "experience": 6,
+      "totalProject": 18,
+      "image": "https://i.ibb.co/kgzPH4C/image.png"
     },
     { "id": 6,
-      "Title": "Node js",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Experience": 2,
-      "TotalProject": 8,
-      "Image": "https://i.ibb.co/bzqfxQg/image.png"
+      "title": "Node js",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "experience": 2,
+      "totalProject": 8,
+      "image": "https://i.ibb.co/bzqfxQg/image.png"
     },
     { "id": 7,
-      "Title": "MongoDB",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Experience": "6 month",
-      "TotalProject": 8,
-      "Image": "https://i.ibb.co/wpRY68L/image.png"
+      "title": "MongoDB",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "experience": "6 month",
+      "totalProject": 8,
+      "image": "https://i.ibb.co/wpRY68L/image.png"
     }
   ]
   

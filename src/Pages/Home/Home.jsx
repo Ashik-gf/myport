@@ -6,8 +6,8 @@ import Quelification from "./Quelification"
 
 
 const Home = () => {
-const data = useLoaderData()
-console.log(data)
+const skills = useLoaderData()
+console.log(skills)
   return (
     <div>
 
@@ -24,7 +24,7 @@ console.log(data)
       </div>
       <div className='mt-12 grid grid-cols-4   gap-4'>
       {
-        data?.map(data=> <Card key={data.id} data={data}></Card>)
+        skills?.map(skill=> <Card key={skill?.id} skill={skill}></Card>)
       }
       </div>
      <div className='my-12'>
